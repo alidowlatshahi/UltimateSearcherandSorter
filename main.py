@@ -3,7 +3,7 @@ import selecting as select
 
 def menu():
     print("1. Selection Sort")
-    print("2. Selection Sort")
+    print("2. Bubble Sort")
 
 array = []
 f = open("array.txt", "r")
